@@ -4,6 +4,7 @@ def find_min_value(array)
     min_value = 10000000000000000000
     if min_value > array[count]
       min_value = array[count]
+    end 
     
     counter += 1 
     
