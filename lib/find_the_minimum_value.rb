@@ -8,5 +8,5 @@ def find_min_value(array)
     counter += 1 
     
   end 
-  
+  min_value 
 end
